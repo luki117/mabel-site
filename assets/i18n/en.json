@@ -1,0 +1,119 @@
+{
+  "header": {
+    "menu": {
+      "academy": "Academy",
+      "alerts": "Market alerts",
+      "blog": "Blog",
+      "bond": "Sovereign bond",
+      "contact": "Contact",
+      "etf": "ETF",
+      "home": "Home",
+      "login": "Login",
+      "markets": "Markets",
+      "news": "News",
+      "others": "Other",
+      "overview": "Overview",
+      "portfolios": "Portfolios",
+      "prices": "Prices",
+      "services": "Services",
+      "settings": "Settings",
+      "stock": "US stock",
+      "team": "Team",
+      "vibe": "GastroTrader vibe"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Welcome to {{name}}"
+    }
+  },
+  "portfolio": {
+    "title": "Portfolio"
+  },
+  "pricing": {
+    "details": "Detailed information",
+    "features": {
+      "academy": {
+        "description": "Investment Academy",
+        "title": "Investment Academy"
+      },
+      "alerts": {
+        "description": "Market alerts",
+        "title": "Market alerts"
+      },
+      "blog": {
+        "description": "Blog",
+        "title": "Blog"
+      },
+      "customAlerts": {
+        "description": "Custom alerts",
+        "title": "Custom alerts"
+      },
+      "excelExport": {
+        "description": "XLS export",
+        "title": "XLS export"
+      },
+      "investmentLog": {
+        "description": "Investment log",
+        "title": "Investment log"
+      },
+      "newsletter": {
+        "description": "Newsletter subscription",
+        "title": "Newsletter subscription"
+      },
+      "overview": {
+        "description": "Market overview",
+        "title": "Market overview"
+      },
+      "portfolioImport": {
+        "description": "Portfolio import (eg. KBC, IBKR)",
+        "title": "Portfolio import (eg. KBC, IBKR)"
+      },
+      "portfolioManualEntry": {
+        "description": "Portfolio manual entry",
+        "title": "Portfolio manual entry"
+      },
+      "portfolioNotifications": {
+        "description": "Portfolio notifications",
+        "title": "Portfolio notifications"
+      }
+    },
+    "order": "Buy Now",
+    "premium": {
+      "price": "18 EUR / month",
+      "subtitle": "Full Access",
+      "title": "GastroTrader Premium"
+    },
+    "pro": {
+      "price": "12 EUR / month",
+      "subtitle": "Extra Features",
+      "title": "GastroTrader Pro"
+    },
+    "standard": {
+      "price": "0 EUR",
+      "subtitle": "Limited",
+      "title": "GastroTrader Standard"
+    },
+    "subscription": "Subscribe"
+  },
+  "unauthenticated": {
+    "text": "You will be redirected to the login page by clicking on the link below",
+    "title": "You are unauthenticated"
+  },
+  "blog": {
+    "search": "Search",
+    "categories": {
+      "title": "Categories",
+      "all": "All",
+      "investmentBasics": "Investment Basics",
+      "marketAnalysis": "Market Analysis",
+      "investmentStrategies": "Investment Strategies"
+    },
+    "readMore": "Read More",
+    "recentPosts": "Recent Posts",
+    "tags": {
+      "title": "Tags"
+    },
+    "postNotFound": "Post not found"
+  }
+}

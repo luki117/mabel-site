@@ -1,0 +1,119 @@
+{
+  "header": {
+    "menu": {
+      "academy": "Akadémia",
+      "alerts": "Piaci riasztások",
+      "blog": "Blog",
+      "bond": "Állampapír",
+      "contact": "Kapcsolat",
+      "etf": "ETF",
+      "home": "Főoldal",
+      "login": "Bejelentkezés",
+      "markets": "Piacok",
+      "news": "Hírek",
+      "others": "Egyéb",
+      "overview": "Áttekintő",
+      "portfolios": "Portfóliók",
+      "prices": "Árak",
+      "services": "Szolgáltatások",
+      "settings": "Beállítások",
+      "stock": "USA részvény",
+      "team": "Team",
+      "vibe": "GastroTrader életérzés"
+    }
+  },
+  "home": {
+    "hero": {
+      "title": "Köszöntünk a {{name}} oldalán"
+    }
+  },
+  "portfolio": {
+    "title": "Portfólió"
+  },
+  "pricing": {
+    "details": "Részletes ismertető",
+    "features": {
+      "academy": {
+        "description": "Segít felépíteni a befektetési tudásodat gyakorlatias információkkal, mindenféle közgazdasági alapismeretek nélkül, egyszerű nyelvezettel megfogalmazva",
+        "title": "Befektetői Akadémia"
+      },
+      "alerts": {
+        "description": "500+ folyamatosan frissülő riasztás 40+ pozíció nyitási stratégia segítségével nem maradsz le a következő NVIDIA story-ról akkor sem, ha nem bújod napi rendszerességgel a piaci információkat",
+        "title": "Piaci riasztások"
+      },
+      "blog": {
+        "description": "Blog",
+        "title": "Blog"
+      },
+      "customAlerts": {
+        "description": "Saját riasztások",
+        "title": "Saját riasztások"
+      },
+      "excelExport": {
+        "description": "Excel export",
+        "title": "Excel export"
+      },
+      "investmentLog": {
+        "description": "Befektetési napló",
+        "title": "Befektetési napló"
+      },
+      "newsletter": {
+        "description": "Feliratkozás a folyamatosan frissülő Befektetői Akadémia és Blog ingyenes tartalmakra",
+        "title": "Hírlevél feliratkozás"
+      },
+      "overview": {
+        "description": "Ha nem akarod órákon keresztül bújni az egyéb információs portfálokat, unod már, hogy repülőgép szimulátorban érzed magad a pénzügyek kapcsán, segítünk neked gyorsan és egyszerűen tájékozottnak maradni a különböző reális befektetési lehetőségekben",
+        "title": "Piaci áttekintők"
+      },
+      "portfolioImport": {
+        "description": "Portfólió import (pl. KBC, IBKR)",
+        "title": "Portfólió import (pl. KBC, IBKR)"
+      },
+      "portfolioManualEntry": {
+        "description": "Portfólió manuális bevitel",
+        "title": "Portfólió manuális bevitel"
+      },
+      "portfolioNotifications": {
+        "description": "Az automatikus portfólió figyelmeztetések akkor is segítségedre lesznek, ha dolgozol vagy a családdal vagy, nem kell folyton rá nézz, hogy megfontolt döntéseket tudj hozni",
+        "title": "Portfólió figyelmeztetések"
+      }
+    },
+    "order": "Megrendelés",
+    "premium": {
+      "price": "7200 Ft / hó",
+      "subtitle": "Teljes Hozzáférés",
+      "title": "GastroTrader Premium"
+    },
+    "pro": {
+      "price": "4800 Ft / hó",
+      "subtitle": "Extra Funkciók",
+      "title": "GastroTrader Pro"
+    },
+    "standard": {
+      "price": "0 Ft",
+      "subtitle": "Korlátozott Funkcionalitás",
+      "title": "GastroTrader Standard"
+    },
+    "subscription": "Feliratkozás"
+  },
+  "unauthenticated": {
+    "text": "Ha az alábbi linkre kattint, át lesz irányítva a bejelentkezés oldalra.",
+    "title": "Nincs bejelentkezve"
+  },
+  "blog": {
+    "search": "Keresés",
+    "categories": {
+      "title": "Kategóriák",
+      "all": "Összes",
+      "investmentBasics": "Befektetés kezdőknek",
+      "marketAnalysis": "Piacelemzés",
+      "investmentStrategies": "Befektetési stratégiák"
+    },
+    "readMore": "Tovább",
+    "recentPosts": "Legutóbbi bejegyzések",
+    "tags": {
+      "title": "Címkék"
+    },
+    "postNotFound": "A keresett bejegyzés nem található"
+  }
+}
