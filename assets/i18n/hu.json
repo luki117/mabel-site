@@ -1,4 +1,20 @@
 {
+  "blog": {
+    "categories": {
+      "all": "Összes",
+      "investmentBasics": "Befektetés kezdőknek",
+      "investmentStrategies": "Befektetési stratégiák",
+      "marketAnalysis": "Piacelemzés",
+      "title": "Kategóriák"
+    },
+    "postNotFound": "A keresett bejegyzés nem található",
+    "readMore": "Tovább",
+    "recentPosts": "Legutóbbi bejegyzések",
+    "search": "Keresés",
+    "tags": {
+      "title": "Címkék"
+    }
+  },
   "header": {
     "menu": {
       "academy": "Akadémia",
@@ -9,6 +25,7 @@
       "etf": "ETF",
       "home": "Főoldal",
       "login": "Bejelentkezés",
+      "logout": "Kijelentkezés",
       "markets": "Piacok",
       "news": "Hírek",
       "others": "Egyéb",
@@ -99,21 +116,5 @@
   "unauthenticated": {
     "text": "Ha az alábbi linkre kattint, át lesz irányítva a bejelentkezés oldalra.",
     "title": "Nincs bejelentkezve"
-  },
-  "blog": {
-    "search": "Keresés",
-    "categories": {
-      "title": "Kategóriák",
-      "all": "Összes",
-      "investmentBasics": "Befektetés kezdőknek",
-      "marketAnalysis": "Piacelemzés",
-      "investmentStrategies": "Befektetési stratégiák"
-    },
-    "readMore": "Tovább",
-    "recentPosts": "Legutóbbi bejegyzések",
-    "tags": {
-      "title": "Címkék"
-    },
-    "postNotFound": "A keresett bejegyzés nem található"
   }
 }

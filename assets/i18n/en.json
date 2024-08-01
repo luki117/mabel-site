@@ -1,4 +1,20 @@
 {
+  "blog": {
+    "categories": {
+      "all": "All",
+      "investmentBasics": "Investment Basics",
+      "investmentStrategies": "Investment Strategies",
+      "marketAnalysis": "Market Analysis",
+      "title": "Categories"
+    },
+    "postNotFound": "Post not found",
+    "readMore": "Read More",
+    "recentPosts": "Recent Posts",
+    "search": "Search",
+    "tags": {
+      "title": "Tags"
+    }
+  },
   "header": {
     "menu": {
       "academy": "Academy",
@@ -9,6 +25,7 @@
       "etf": "ETF",
       "home": "Home",
       "login": "Login",
+      "logout": "Logout",
       "markets": "Markets",
       "news": "News",
       "others": "Other",
@@ -99,21 +116,5 @@
   "unauthenticated": {
     "text": "You will be redirected to the login page by clicking on the link below",
     "title": "You are unauthenticated"
-  },
-  "blog": {
-    "search": "Search",
-    "categories": {
-      "title": "Categories",
-      "all": "All",
-      "investmentBasics": "Investment Basics",
-      "marketAnalysis": "Market Analysis",
-      "investmentStrategies": "Investment Strategies"
-    },
-    "readMore": "Read More",
-    "recentPosts": "Recent Posts",
-    "tags": {
-      "title": "Tags"
-    },
-    "postNotFound": "Post not found"
   }
 }
