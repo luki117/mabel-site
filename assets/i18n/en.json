@@ -7,6 +7,7 @@
       "marketAnalysis": "Market Analysis",
       "title": "Categories"
     },
+    "emptyFilterResult": "No posts found with the selected filters and search",
     "postNotFound": "Post not found",
     "readMore": "Read More",
     "recentPosts": "Recent Posts",

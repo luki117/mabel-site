@@ -7,6 +7,7 @@
       "marketAnalysis": "Piacelemzés",
       "title": "Kategóriák"
     },
+    "emptyFilterResult": "Nincs a keresésnek és szűrésnek megfelelő eredmény",
     "postNotFound": "A keresett bejegyzés nem található",
     "readMore": "Tovább",
     "recentPosts": "Legutóbbi bejegyzések",
