@@ -16,6 +16,80 @@
       "title": "Címkék"
     }
   },
+  "features": {
+    "automatic-alerts": {
+      "content": "Automatikus árfolyam riasztások, reális befektetési lehetőségekkel, csak a legerősebb vállalatokat tartalmazó adatbázisból. Nem szükséges napi szinten egyéni figyelési listákkal, illetve grafikon elemzésekkel foglalkozni, ahhoz, hogy ne maradj le a következő Nvidia, Apple vagy Coca Cola beszállási lehetőségekről",
+      "li1": "150 legerősebb amerikai vállalat napi tőzsdei kereskedési adatai",
+      "li2": "500+ előre beállított figyelmeztetés",
+      "li3": "40+ technikai beszállási pont, hozzá kapcsolódó magyarázatokkal",
+      "li4": "4 féle közép és hosszú távú befektetési stratégia támogatása",
+      "title": "Automatikus riasztások"
+    },
+    "content": " ",
+    "investor-academy": {
+      "content": "Rövid befektetői elméleti tudásbázis a befektetések magabiztosabb kezeléséhez:",
+      "li1": "Hogyan érdemes belevágni a saját (digitális)vagyonkezelésbe?",
+      "li2": "Gyakorlati tippek a megtakarítások menedzselési technikákra a vésztartaléktól kezdve a nyugdíjcélú megtakarításokig",
+      "li3": "Hosszú távú portfólió építési szabályok különböző eszközökkel az állampapírról az ETF-eken át az egyedi részvényekig",
+      "li4": "Minden, amit a befektetési szolgáltatókról tudni érdemes",
+      "li5": "Költségek, adózás",
+      "li6": "Befektetői időbeosztásom menedzselése, az GastroTrader szolgáltatások használata az idő-megtakarítás céljából",
+      "title": "Befektetői Akadémia"
+    },
+    "market-overview": {
+      "content": "Gyors áttekintő felületek, annak érdekében, hogy pár perc alatt képben tudjál maradni a piaci trendeket illetően",
+      "li1": "Piaci óriások - amelyek a nagyobb trendeket meghatározzák",
+      "li2": "Legerősebb vállalatok",
+      "li3": "Top elemzői ajánlások",
+      "li4": "Legjobb iparági szereplők",
+      "title": "Piaci áttekintők"
+    },
+    "portfolio-watching": {
+      "content": "A felhasználó feltöltött vételi és eladási adataira támaszkodva, a kényelmes, hosszú távú befektetések menedzselésének támogatása",
+      "li1": "Automatikus eladási figyelmeztetések",
+      "li2": "Új pozíció nyitások lehetősége",
+      "li3": "Felhasználó egyedi figyelmeztetései",
+      "li4": "Pozíció nyereség/veszteség számítások",
+      "li5": "Kereskedési napló és befektetési teljesítmény",
+      "title": "Portfolió menedzsment"
+    },
+    "title": "Funkciók"
+  },
+  "footer": {
+    "about": {
+      "content": "Ide kellene egy rövid leírás, pl. a product positioning",
+      "title": "Rólunk"
+    },
+    "all-rights-reserved": "Minden jog fenntartva",
+    "contacts": {
+      "adress": "Akarunk címet megadni, vagy elég az e-mail és a telefonszám?",
+      "email": "info@gastrotrader.com",
+      "email-word": "E-mail",
+      "phone": "+36-70-37-131-44",
+      "phone-word": "Telefon",
+      "title": "Kapcsolat"
+    },
+    "newsletter": {
+      "btn": "Feliratkozás",
+      "content": "Feliratkozás a folyamatosan frissülő Befektetői Akadémia és Blog ingyenes tartalmakra",
+      "title": "Hírlevél"
+    },
+    "services": {
+      "li1": "Piaci adatok",
+      "li2": "Portfolió",
+      "li3": "Blog",
+      "li4": "Csomagok",
+      "title": "Funkciók"
+    },
+    "useful-links": {
+      "li1": "Főoldal",
+      "li2": "GastroTrader",
+      "li3": "Funkciók",
+      "li4": "Használati jogok",
+      "li5": "Adatkezlési szabályzat",
+      "title": "Hasznos linkek"
+    }
+  },
   "header": {
     "menu": {
       "academy": "Akadémia",
@@ -38,6 +112,21 @@
       "stock": "USA részvény",
       "team": "Team",
       "vibe": "GastroTrader életérzés"
+    }
+  },
+  "hero": {
+    "more": "További információk",
+    "slide1": {
+      "content": "A pénzügyileg tudatos emberek információs platformja befektetési stratégiákról, piaci információkról, befektetési lehetőségekről, vételi és eladási pontokról.",
+      "title": "Üdvözöl a "
+    },
+    "slide2": {
+      "content": "Takaríts meg időt és a energiát új befektetési lehetőségek után kutatva a Smart Alert automata riasztási funkciókkal.",
+      "title": "Automatikus riasztások"
+    },
+    "slide3": {
+      "content": "Kezeld könnyedén a befektetési portfóliód alakulását az automatán generált új belépési pontok vagy eladási figyelmeztetések segítségével.",
+      "title": "Portfolio figyelés"
     }
   },
   "home": {
@@ -114,8 +203,37 @@
     },
     "subscription": "Feliratkozás"
   },
+  "services": {
+    "automatic-alerts": {
+      "content": "500+ folyamatosan frissülő riasztás 40+ pozíció nyitási stratégia segítségével nem maradsz le a következő NVIDIA story-ról akkor sem, ha nem bújod napi rendszerességgel a piaci információkat.",
+      "title": "Automatikus riasztások"
+    },
+    "investor-academy": {
+      "content": "Segít felépíteni a befektetési tudásodat gyakorlatias információkkal, mindenféle közgazdasági alapismeretek nélkül, egyszerű nyelvezettel megfogalmazva",
+      "title": "Befektetői Akadémia"
+    },
+    "market-overview": {
+      "content": "Ha nem akarod órákon keresztül bújni az egyéb információs portálokat, unod már, hogy repülőgép szimulátorban érzed magam a pénzügyek kapcsán, segítünk neked gyorsan és egyszerűen tájékozottnak maradni a különböző reális befektetési lehetőségekben",
+      "title": "Piaci áttekintők"
+    },
+    "more": "További információk",
+    "portfolio-watching": {
+      "content": "Az automatikus portfólió figyelmeztetések akkor is segítségedre lesznek, ha dolgozol vagy a családdal vagy, nem kell folyton rá nézz, hogy megfontolt döntéseket tudj hozni.",
+      "title": "Portfolió figyelés"
+    }
+  },
   "unauthenticated": {
     "text": "Ha az alábbi linkre kattint, át lesz irányítva a bejelentkezés oldalra.",
     "title": "Nincs bejelentkezve"
+  },
+  "video": {
+    "life-feeling": {
+      "content": "Dőlj hátra, és egy finom pohár bor és pár falat ízletes sajt mellett kövess végig egy befektetési folyamatot",
+      "title": "GastroTrader életérzés"
+    },
+    "usage": {
+      "content": "A rövid áttekintő videóból kiderül hogyan lehet segítségedre az oldal a befektetési döntések meghozatalában",
+      "title": "GastroTrader használat"
+    }
   }
 }

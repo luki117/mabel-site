@@ -16,6 +16,80 @@
       "title": "Tags"
     }
   },
+  "features": {
+    "automatic-alerts": {
+      "content": "Automatic exchange rate alerts, with realistic investment opportunities, from a database containing only the strongest companies. It is not necessary to deal with individual watch lists or graph analyzes on a daily basis in order not to miss the next Nvidia, Apple or Coca Cola buy opportunities",
+      "li1": "Daily stock trading data of the 150 strongest US companies",
+      "li2": "500+ preset alerts",
+      "li3": "40+ technical entry points with related explanations",
+      "li4": "Support for 4 medium and long-term investment strategies",
+      "title": "Automatic alerts"
+    },
+    "content": " ",
+    "investor-academy": {
+      "content": "Short investor theoretical knowledge base for more confident management of investments:",
+      "li1": "How should you start your own (digital) asset management?",
+      "li2": "Practical tips for savings management techniques from emergency reserves to retirement savings",
+      "li3": "Long-term portfolio building rules with various tools from government securities to ETFs to individual shares",
+      "li4": "Everything you need to know about our investment service",
+      "li5": "Costs, taxation",
+      "li6": "Management of my investment schedule with the use of the services of GastroTrader",
+      "title": "Investor academy"
+    },
+    "market-overview": {
+      "content": "Quick overview interfaces, so that you can stay informed about market trends in a few minutes",
+      "li1": "Market titans - which determine the largest trends",
+      "li2": "The strongest companies",
+      "li3": "Top analyst recommendations",
+      "li4": "The best industry participants",
+      "title": "Market overview"
+    },
+    "portfolio-watching": {
+      "content": "Support for convenient, long-term investment management based on the user's uploaded buy and sell data",
+      "li1": "Automatic sales alerts",
+      "li2": "Possibility of new position openings",
+      "li3": "User-specific warnings",
+      "li4": "Position profit/loss calculations",
+      "li5": "Trading log and investment performance",
+      "title": "Portfolio management"
+    },
+    "title": "Features"
+  },
+  "footer": {
+    "about": {
+      "content": "We'd need a short description, e.g. the product postitioning",
+      "title": "About"
+    },
+    "all-rights-reserved": "All Rights Reserved",
+    "contacts": {
+      "adress": "Shall we provide an address or is the e-mail and phone number enough?",
+      "email": "info@gastrotrader.com",
+      "email-word": "Email",
+      "phone": "+36-70-37-131-44",
+      "phone-word": "Phone",
+      "title": "Contacts Us"
+    },
+    "newsletter": {
+      "btn": "Subscribe",
+      "content": "Subscribe to the free content of the continuously updating Investor Academy and Blog",
+      "title": "Newsletter"
+    },
+    "services": {
+      "li1": "Market information",
+      "li2": "Portfolio",
+      "li3": "Blog",
+      "li4": "Packages",
+      "title": "Our Services"
+    },
+    "useful-links": {
+      "li1": "Home",
+      "li2": "GastroTrader",
+      "li3": "Services",
+      "li4": "Terms of service",
+      "li5": "Privacy policy",
+      "title": "Useful links"
+    }
+  },
   "header": {
     "menu": {
       "academy": "Academy",
@@ -38,6 +112,21 @@
       "stock": "US stock",
       "team": "Team",
       "vibe": "GastroTrader vibe"
+    }
+  },
+  "hero": {
+    "more": "More information",
+    "slide1": {
+      "content": "The platform of financially conscious people for investment strategies, market information, investment opportunities, buying and selling points.",
+      "title": "Welcome to"
+    },
+    "slide2": {
+      "content": "Save time and energy looking for new investment opportunities with the Smart Alert automatic alert function",
+      "title": "Automatic alerts"
+    },
+    "slide3": {
+      "content": "Manage the development of your investment portfolio easily with the help of the automatically generated buying points or selling alerts",
+      "title": "Portfolio tracker"
     }
   },
   "home": {
@@ -114,8 +203,37 @@
     },
     "subscription": "Subscribe"
   },
+  "services": {
+    "automatic-alerts": {
+      "content": "With the help of 500+ continuously updating alert 40+ pozíció nyitási stratégia you will not miss the next NVIDIA story even if you don’t go through the market information on a daily basis",
+      "title": "Automatic alerts"
+    },
+    "investor-academy": {
+      "content": "It helps you build your investment knowledge with practical information, without any basic knowledge of economics formulated with simple language",
+      "title": "Investor academy"
+    },
+    "market-overview": {
+      "content": "If you don’t want to search through information portals for hours, you are tired of feeling like you are in an airplane simulator when it comes to finances, we will help you stay informed quickly and easily about various realistic investment opportunities",
+      "title": "Market overview"
+    },
+    "more": "More information",
+    "portfolio-watching": {
+      "content": "The automatic portfolio alerts will be to your help even if you are working or you are with your family you don’t have to look at it all the time to make considerate decisions",
+      "title": "Portfolio tracker"
+    }
+  },
   "unauthenticated": {
     "text": "You will be redirected to the login page by clicking on the link below",
     "title": "You are unauthenticated"
+  },
+  "video": {
+    "life-feeling": {
+      "content": "Relax and follow an investment process with a nice glass of wine and some tasty cheese",
+      "title": "GastroTrader lifestyle"
+    },
+    "usage": {
+      "content": "From this short video you will find out how can the page be to your help with making your investment decision",
+      "title": "Usage of GastroTrader"
+    }
   }
 }
