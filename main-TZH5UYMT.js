@@ -178,7 +178,7 @@ import{$ as cr,$a as xc,$b as zc,A as Zt,Aa as ct,Ab as Oe,B as ue,Ba as Vo,Bb a
 
                 <h3>Sikeres befektet\xE9si utat k\xEDv\xE1nunk, amelynek alapjai a t\xFCrelem, a kitart\xE1s, \xE9s a rendszeress\xE9g!</h3>
 
-              </div>`,category:3,tags:[1,10]},{id:2,imgPath:"assets/img/academy/entry_2.png",title:"Befektet\xE9si strat\xE9gia \xF6ssze\xE1ll\xEDt\xE1sa",date:"2024-09-12",content:`<div class="entry-content">
+              </div>`,category:1,tags:[1,10]},{id:2,imgPath:"assets/img/academy/entry_2.png",title:"Befektet\xE9si strat\xE9gia \xF6ssze\xE1ll\xEDt\xE1sa",date:"2024-09-12",content:`<div class="entry-content">
                 <p class="post-lead">
                     Egy egy\xE9ni befektet\xE9si strat\xE9gia \xF6ssze\xE1ll\xEDt\xE1sa kulcsfontoss\xE1g\xFA ahhoz, hogy a befektet\u0151 hat\xE9konyan
                     kezelje t\u0151k\xE9j\xE9t, \xE9s hossz\xFA t\xE1von optimaliz\xE1lja hozamait a kock\xE1zat minimaliz\xE1l\xE1sa mellett, valamint
