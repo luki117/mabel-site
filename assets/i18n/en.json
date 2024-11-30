@@ -55,6 +55,36 @@
     },
     "title": "Features"
   },
+  "flip-card": {
+    "alert-close-range": "price above alert level",
+    "alert-day": "alert day",
+    "alert-level": "alert level",
+    "alert-master": "alert type",
+    "avg-analyst-price-target": "analyst avg price target",
+    "back": "Back",
+    "buy": "Buy",
+    "close-price": "close",
+    "div-5y-growth": "dividend growth in 5 years ",
+    "div-yield": "dividend yield",
+    "earnings": {
+      "rating0": " ",
+      "rating1": "bad",
+      "rating2": "weak",
+      "rating3": "neutral",
+      "rating4": "strong",
+      "rating5": "excellent"
+    },
+    "earnings-rating": "last earnings",
+    "investment-horizon": "investment horizon",
+    "market-cap": "market capitalization",
+    "more": "More",
+    "more-details": "More details",
+    "position-size": "position size",
+    "rating": "rating",
+    "return-10y": "10 year total return",
+    "return-5y": "5 year total return",
+    "sector": "sector"
+  },
   "footer": {
     "about": {
       "content": "We'd need a short description, e.g. the product postitioning",

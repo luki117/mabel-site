@@ -1,0 +1,8 @@
+{
+  "oidcAuthority": "https://test-iam.gastrotrader.com:28443/realms/gastrotrader",
+  "oidcLoglevel": 1,
+  "apiUrl": "https://test.gastrotrader.com:20443/api/",
+  "secureRoutes": [
+    "https://test.gastrotrader.com:20443/api/"
+  ]
+}

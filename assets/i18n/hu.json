@@ -55,6 +55,36 @@
     },
     "title": "Funkciók"
   },
+  "flip-card": {
+    "alert-close-range": "ár riasztási szint felett/alatt",
+    "alert-day": "riasztás napja",
+    "alert-level": "riasztási szint",
+    "alert-master": "riasztás típusa",
+    "avg-analyst-price-target": "átlagos elemzői célár",
+    "back": "Vissza",
+    "buy": "Vétel",
+    "close-price": "záró",
+    "div-5y-growth": "5 éves osztalék növekedés",
+    "div-yield": "osztalék hozam",
+    "earnings": {
+      "rating0": " ",
+      "rating1": "rossz",
+      "rating2": "gyenge",
+      "rating3": "közepes",
+      "rating4": "erős",
+      "rating5": "kiváló"
+    },
+    "earnings-rating": "utolsó eredmények",
+    "investment-horizon": "befektetési táv",
+    "market-cap": "piaci kapitalizáció",
+    "more": "Több",
+    "more-details": "Még több részlet",
+    "position-size": "pozíció méret",
+    "rating": "minősítés",
+    "return-10y": "10 éves hozam",
+    "return-5y": "5 éves hozam",
+    "sector": "szektor"
+  },
   "footer": {
     "about": {
       "content": "Ide kellene egy rövid leírás, pl. a product positioning",
