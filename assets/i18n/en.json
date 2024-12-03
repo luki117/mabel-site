@@ -56,7 +56,7 @@
     "title": "Features"
   },
   "flip-card": {
-    "alert-close-range": "price above alert level",
+    "alert-close-range": "difference from alert level",
     "alert-day": "alert day",
     "alert-level": "alert level",
     "alert-master": "alert type",
@@ -64,7 +64,7 @@
     "back": "Back",
     "buy": "Buy",
     "close-price": "close",
-    "div-5y-growth": "dividend growth in 5 years ",
+    "div-5y-growth": "div. growth in 5 years ",
     "div-yield": "dividend yield",
     "earnings": {
       "rating0": " ",

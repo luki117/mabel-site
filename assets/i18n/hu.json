@@ -56,7 +56,7 @@
     "title": "Funkciók"
   },
   "flip-card": {
-    "alert-close-range": "ár riasztási szint felett/alatt",
+    "alert-close-range": "elérés a riasztási szinttől",
     "alert-day": "riasztás napja",
     "alert-level": "riasztási szint",
     "alert-master": "riasztás típusa",
@@ -64,13 +64,13 @@
     "back": "Vissza",
     "buy": "Vétel",
     "close-price": "záró",
-    "div-5y-growth": "5 éves osztalék növekedés",
+    "div-5y-growth": "5 éves oszt. növekedés",
     "div-yield": "osztalék hozam",
     "earnings": {
       "rating0": " ",
       "rating1": "rossz",
       "rating2": "gyenge",
-      "rating3": "közepes",
+      "rating3": "semleges",
       "rating4": "erős",
       "rating5": "kiváló"
     },
