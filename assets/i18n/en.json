@@ -34,8 +34,9 @@
       "li4": "Everything you need to know about our investment service",
       "li5": "Costs, taxation",
       "li6": "Management of my investment schedule with the use of the services of GastroTrader",
-      "title": "Investor academy"
+      "title": "Knowledge base"
     },
+    "login-to-see-alerts": "Log in to see the actual alerts!",
     "market-overview": {
       "content": "Quick overview interfaces, so that you can stay informed about market trends in a few minutes",
       "li1": "Market titans - which determine the largest trends",
@@ -53,6 +54,7 @@
       "li5": "Trading log and investment performance",
       "title": "Portfolio management"
     },
+    "see-alerts": "See the actual alerts!",
     "title": "Features"
   },
   "flip-card": {
@@ -122,6 +124,7 @@
   },
   "header": {
     "menu": {
+      "about": "About",
       "academy": "Academy",
       "alerts": "Market alerts",
       "blog": "Blog",
@@ -129,6 +132,7 @@
       "contact": "Contact",
       "etf": "ETF",
       "home": "Home",
+      "knowledge-base": "Konwledge Base",
       "login": "Login",
       "logout": "Logout",
       "markets": "Markets",
@@ -142,7 +146,9 @@
       "stock": "US stock",
       "team": "Team",
       "vibe": "GastroTrader vibe"
-    }
+    },
+    "privacy": "Privacy",
+    "terms": "Terms and conditions"
   },
   "hero": {
     "more": "More information",
@@ -164,6 +170,11 @@
       "title": "Welcome to {{name}}"
     }
   },
+  "login": "Login",
+  "market-alerts": {
+    "no-alerts": "Sorry! There are no alerts at the moment. Check back later!"
+  },
+  "page_under_construction": "The page is under construction",
   "portfolio": {
     "title": "Portfolio"
   },
@@ -240,7 +251,7 @@
     },
     "investor-academy": {
       "content": "It helps you build your investment knowledge with practical information, without any basic knowledge of economics formulated with simple language",
-      "title": "Investor academy"
+      "title": "Knowledge base"
     },
     "market-overview": {
       "content": "If you don’t want to search through information portals for hours, you are tired of feeling like you are in an airplane simulator when it comes to finances, we will help you stay informed quickly and easily about various realistic investment opportunities",
@@ -265,6 +276,5 @@
       "content": "From this short video you will find out how can the page be to your help with making your investment decision",
       "title": "Usage of GastroTrader"
     }
-  },
-  "page_under_construction": "The page is under construction"
+  }
 }
