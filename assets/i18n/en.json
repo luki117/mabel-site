@@ -13,7 +13,17 @@
     "recentPosts": "Recent Posts",
     "search": "Search",
     "tags": {
-      "title": "Tags"
+      "title": "Tags",
+      "investmentStrategies": "Investment Strategies",
+      "portfolioManagement": "Portfolio Management",
+      "assetAllocation": "Asset Allocation",
+      "riskManagement": "Risk Management",
+      "financialPlanning": "Financial Planning",
+      "marketTrends": "Market Trends",
+      "investmentTips": "Investment Tips",
+      "longTermInvesting": "Long-Term Investing",
+      "shortTermInvesting": "Short-Term Investing",
+      "reviewMaterials": "Review Materials"
     }
   },
   "features": {
@@ -154,7 +164,7 @@
     "more": "More information",
     "slide1": {
       "content": "The platform of financially conscious people for investment strategies, market information, investment opportunities, buying and selling points.",
-      "title": "Welcome to"
+      "title": "Welcome to "
     },
     "slide2": {
       "content": "Save time and energy looking for new investment opportunities with the Smart Alert automatic alert function",

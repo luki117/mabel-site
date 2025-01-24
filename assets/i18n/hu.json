@@ -13,7 +13,17 @@
     "recentPosts": "Legutóbbi bejegyzések",
     "search": "Keresés",
     "tags": {
-      "title": "Címkék"
+      "title": "Címkék",
+      "investmentStrategies": "Befektetési stratégiák",
+      "portfolioManagement": "Portfólió menedzsment",
+      "assetAllocation": "Eszközallokáció",
+      "riskManagement": "Kockázatkezelés",
+      "financialPlanning": "Pénzügyi tervezés",
+      "marketTrends": "Piaci trendek",
+      "investmentTips": "Befektetési tippek",
+      "longTermInvesting": "Hosszútávú befektetés",
+      "shortTermInvesting": "Rövidtávú befektetés",
+      "reviewMaterials": "Felülvizsgálati anyagok"
     }
   },
   "features": {
