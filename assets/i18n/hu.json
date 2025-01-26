@@ -13,27 +13,27 @@
     "recentPosts": "Legutóbbi bejegyzések",
     "search": "Keresés",
     "tags": {
-      "title": "Címkék",
-      "investmentStrategies": "Befektetési stratégiák",
-      "portfolioManagement": "Portfólió menedzsment",
       "assetAllocation": "Eszközallokáció",
-      "riskManagement": "Kockázatkezelés",
       "financialPlanning": "Pénzügyi tervezés",
-      "marketTrends": "Piaci trendek",
+      "investmentStrategies": "Befektetési stratégiák",
       "investmentTips": "Befektetési tippek",
       "longTermInvesting": "Hosszútávú befektetés",
+      "marketTrends": "Piaci trendek",
+      "portfolioManagement": "Portfólió menedzsment",
+      "reviewMaterials": "Felülvizsgálati anyagok",
+      "riskManagement": "Kockázatkezelés",
       "shortTermInvesting": "Rövidtávú befektetés",
-      "reviewMaterials": "Felülvizsgálati anyagok"
+      "title": "Címkék"
     }
   },
   "features": {
     "automatic-alerts": {
-      "content": "Ne hagyd, hogy a következő nagy lehetőség elszálljon! A GastroTrader napi rendszerességű árfolyamriasztásokat küld, amelyek kizárólag a legerősebb vállalatokból álló adatbázisra épülnek. Elfelejtheted a napi grafikonok böngészését és az egyéni figyelési listákat – mostantól minden fontos információt azonnal megkapsz.",
+      "content": "Ne hagyd, hogy a következő nagy lehetőség elszálljon! A GastroTrader napi rendszerességű értékpapír szignálokat küld, amelyek kizárólag a legerősebb vállalatokból álló adatbázisra épülnek. Elfelejtheted a napi grafikonok böngészését és az egyéni figyelési listákat – mostantól minden fontos információt azonnal megkapsz.",
       "li1": "Amerika TOP 150 vállalata - folyamatos betekintés a legnagyobbak napi tőzsdei mozgásaiba.",
       "li2": "500+ automatikus riasztás pont - takaríts meg időt, a Gastrotrader figyeli a piacokat.",
       "li3": "40+ technikai beszállási pont - könnyen érthető magyarázatokkal, hogy pontosan tudd, mikor és miért lépj.",
       "li4": "Befektetési stratégiai támogatás - 6 különböző közép- és hosszú távú befektetési módszerre optimalizálva.",
-      "title": "Automatizált befektetési riasztások - Legyél mindig egy lépéssel előrébb!"
+      "title": "Automatizált befektetési szignálok - Legyél mindig egy lépéssel előrébb!"
     },
     "content": " ",
     "investor-academy": {
@@ -46,7 +46,7 @@
       "li6": "Befektetési tudás könnyen érthető formában, kezdőknek és haladóknak egyaránt.",
       "title": "Tudástár – Az alapoktól a magabiztos vagyonkezelésig"
     },
-    "login-to-see-alerts": "Jelentkezz be, hogy megnézd az aktuális riasztásokat!",
+    "login-to-see-alerts": "Jelentkezz be, hogy megnézd az aktuális szignálokat!",
     "market-overview": {
       "content": "Gyors áttekintő felületek, annak érdekében, hogy pár perc alatt képben tudjál maradni a piaci trendeket illetően",
       "li1": "Piaci óriások - amelyek a nagyobb trendeket meghatározzák",
@@ -59,19 +59,19 @@
       "content": "Vedd kezedbe a befektetéseid irányítását saját pozíciós adataidra alapozva! A Gastrotrader támogatja a hosszú távú, kényelmes portfóliómenedzsmentet, hogy mindig a legjobb döntéseket hozhasd meg.",
       "li1": "Automatikus eladási figyelmeztetések: tudd meg időben, mikor érdemes kiszállni!",
       "li2": "Új pozíciók nyitási lehetőségei: ne felejts el újra venni a győztes vállalatod részvényeiből!",
-      "li3": "Egyedi riasztások: állítsd be a személyes riasztási eseményeidet!",
+      "li3": "Egyedi szignálok: állítsd be a személyes szignál eseményeidet!",
       "li4": "Nyereség / veszteség elemzés: részletes pozíciószámítások, hogy  mindig képben legyél a portfóliód alakulásával.",
       "li5": "Kereskedési napló és teljesítménykövetés: kövesd a fejlődésed, elemezd a jó és rossz döntéseidet, optimalizáld a stratégiáidat.",
       "title": "Portfólió építés új szinten – Egyszerű, kényelmes, hatékony"
     },
-    "see-alerts": "Nézd meg az aktuális riasztásokat!",
+    "see-alerts": "Nézd meg az aktuális szignálokat!",
     "title": "Miért válaszd a rendszerünket?"
   },
   "flip-card": {
-    "alert-close-range": "elérés a riasztási szinttől",
-    "alert-day": "riasztás napja",
-    "alert-level": "riasztási szint",
-    "alert-master": "riasztás típusa",
+    "alert-close-range": "eltérés a szignál szinttől",
+    "alert-day": "szignál napja",
+    "alert-level": "szignál szint",
+    "alert-master": "szignál típusa",
     "avg-analyst-price-target": "átlagos elemzői célár",
     "back": "Vissza",
     "buy": "Vétel",
@@ -136,7 +136,7 @@
     "menu": {
       "about": "Rólunk",
       "academy": "Akadémia",
-      "alerts": "Piaci riasztások",
+      "alerts": "Piaci szignálok",
       "blog": "Blog",
       "bond": "Állampapír",
       "contact": "Kapcsolat",
@@ -167,8 +167,8 @@
       "title": "Üdvözöl a "
     },
     "slide2": {
-      "content": "Ne vesztegesd az időd és energiád az új befektetési lehetőségek felkutatására! A GastroTrader automata riasztási funkciói azonnal értesítenek a legígéretesebb lehetőségekről, így te a lényegre koncentrálhatsz: a portfóliód építésére és az élet élvezetére.",
-      "title": "Automatikus riasztások"
+      "content": "Ne vesztegesd az időd és energiád az új befektetési lehetőségek felkutatására! A GastroTrader automata szignál funkciói azonnal értesítenek a legígéretesebb lehetőségekről, így te a lényegre koncentrálhatsz: a portfóliód építésére és az élet élvezetére.",
+      "title": "Automatikus szignálok"
     },
     "slide3": {
       "content": "Maradj mindig képben a befektetéseiddel, miközben a rendszerünk automatikusan generál számodra új belépési lehetőségeket és eladási figyelmeztetéseket. Könnyedén nyomon követheted a portfóliód alakulását, és gyorsan reagálhatsz a legjobb pillanatokban.",
@@ -182,7 +182,7 @@
   },
   "login": "Bejelentkezés",
   "market-alerts": {
-    "no-alerts": "Sajnáljuk, de jelenleg nincsnek aktív riasztások. Látogass vissza később!"
+    "no-alerts": "Sajnáljuk, de jelenleg nincsnek aktív szignálok. Látogass vissza később!"
   },
   "page_under_construction": "Az oldal szerkesztés alatt áll",
   "portfolio": {
@@ -197,15 +197,15 @@
       },
       "alerts": {
         "description": "500+ folyamatosan frissülő riasztás 40+ pozíció nyitási stratégia segítségével nem maradsz le a következő NVIDIA story-ról akkor sem, ha nem bújod napi rendszerességgel a piaci információkat",
-        "title": "Piaci riasztások"
+        "title": "Piaci szignálok"
       },
       "blog": {
         "description": "Blog",
         "title": "Blog"
       },
       "customAlerts": {
-        "description": "Saját riasztások",
-        "title": "Saját riasztások"
+        "description": "Saját szignálok",
+        "title": "Saját szignálok"
       },
       "excelExport": {
         "description": "Excel export",
@@ -257,7 +257,7 @@
   "services": {
     "automatic-alerts": {
       "content": "Ne hagyd ki a következő NVIDIA-sztorit! Több mint 500 automatikus riasztás és 40 különböző pozíciónyitási stratégia garantálja, hogy mindig időben értesülj a legjobb lehetőségekről – anélkül, hogy napi szinten bújnád a grafikonokat és olvasnád az elemzéseket - megteszi helyetted ezt a GastroAI!",
-      "title": "Automatikus riasztások"
+      "title": "Automatikus szignálok"
     },
     "investor-academy": {
       "content": "Befektetési tudás egyszerűen és gyakorlatiasan. Építsd fel a tudásod könnyedén, bonyolult közgazdasági alapok nélkül! A GastroTrader érthető, gyakorlatias információkkal segít, hogy magabiztosan kezeld befektetéseidet – akár kezdőként is.",
@@ -269,7 +269,7 @@
     },
     "more": "További információk",
     "portfolio-watching": {
-      "content": "Legyen szó munkáról, családi időtöltésről vagy utazásról, az intelligens riasztások mindig a háttérben dolgoznak érted. Nem kell folyton a piacot figyelned – a GastroTrader gondoskodik róla, hogy megfontolt döntéseket hozhass, bárhol és bármikor.",
+      "content": "Legyen szó munkáról, családi időtöltésről vagy utazásról, az intelligens szignálok mindig a háttérben dolgoznak érted. Nem kell folyton a piacot figyelned – a GastroTrader gondoskodik róla, hogy megfontolt döntéseket hozhass, bárhol és bármikor.",
       "title": "Portfolió figyelés"
     }
   },

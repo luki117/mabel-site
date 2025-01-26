@@ -13,17 +13,17 @@
     "recentPosts": "Recent Posts",
     "search": "Search",
     "tags": {
-      "title": "Tags",
-      "investmentStrategies": "Investment Strategies",
-      "portfolioManagement": "Portfolio Management",
       "assetAllocation": "Asset Allocation",
-      "riskManagement": "Risk Management",
       "financialPlanning": "Financial Planning",
-      "marketTrends": "Market Trends",
+      "investmentStrategies": "Investment Strategies",
       "investmentTips": "Investment Tips",
       "longTermInvesting": "Long-Term Investing",
+      "marketTrends": "Market Trends",
+      "portfolioManagement": "Portfolio Management",
+      "reviewMaterials": "Review Materials",
+      "riskManagement": "Risk Management",
       "shortTermInvesting": "Short-Term Investing",
-      "reviewMaterials": "Review Materials"
+      "title": "Tags"
     }
   },
   "features": {
@@ -136,7 +136,7 @@
     "menu": {
       "about": "About",
       "academy": "Academy",
-      "alerts": "Market alerts",
+      "alerts": "Market signals",
       "blog": "Blog",
       "bond": "Sovereign bond",
       "contact": "Contact",
@@ -167,8 +167,8 @@
       "title": "Welcome to "
     },
     "slide2": {
-      "content": "Save time and energy looking for new investment opportunities with the Smart Alert automatic alert function",
-      "title": "Automatic alerts"
+      "content": "Save time and energy looking for new investment opportunities with the Smart Signal automatic alert function",
+      "title": "Automatic signals"
     },
     "slide3": {
       "content": "Manage the development of your investment portfolio easily with the help of the automatically generated buying points or selling alerts",
@@ -269,7 +269,7 @@
     },
     "more": "More information",
     "portfolio-watching": {
-      "content": "The automatic portfolio alerts will be to your help even if you are working or you are with your family you don’t have to look at it all the time to make considerate decisions",
+      "content": "The automatic portfolio signals will be to your help even if you are working or you are with your family you don’t have to look at it all the time to make considerate decisions",
       "title": "Portfolio tracker"
     }
   },
