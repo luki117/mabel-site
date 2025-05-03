@@ -273,6 +273,25 @@
       "title": "Portfolió figyelés"
     }
   },
+  "signup": {
+    "fields": {
+      "email": "Email",
+      "lastName": "Vezetéknév",
+      "firstName": "Keresztnév",
+      "phone": "Telefon",
+      "address": "Cím",
+      "registerAsCompany": "Cégként regisztrálok",
+      "taxId": "Adószám",
+      "companyName": "Cégnév",
+      "signUp": "Regisztrálok"
+    },
+    "success": "Sikeres regisztráció! Kérjük, ellenőrizze az e-mail fiókoját, és kattintson a megerősítő linkre a regisztráció befejezéséhez. Amennyiben nem találja az e-mailt, írjon nekünk az info@gastrotrader.com címre.",
+    "error": {
+      "validation": "Hiba történt a regisztráció során. Kérjük, ellenőrizze az alábbi mezőket, és próbálja újra:",
+      "emailExists": "Ezzel az e-mail címmel már regisztráltak. Kérjük, jelentkezzen be a fiókjába, vagy használjon egy másik e-mail címet.",
+      "unknown": "Hiba történt a regisztráció során. Kérjük, próbálja meg újra később. Ha a probléma továbbra is fennáll, lépjen kapcsolatba velünk az info@gastrotrader.com címen."
+    }
+  },
   "unauthenticated": {
     "text": "Ha az alábbi linkre kattint, át lesz irányítva a bejelentkezés oldalra.",
     "title": "Nincs bejelentkezve"

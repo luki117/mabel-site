@@ -254,6 +254,23 @@
     },
     "subscription": "Subscribe"
   },
+  "signup": {
+    "fields": {
+      "email": "Email",
+      "lastName": "Last Name",
+      "firstName": "First Name",
+      "phone": "Phone",
+      "address": "Address",
+      "registerAsCompany": "Register as a Company",
+      "taxId": "Tax ID",
+      "companyName": "Company Name",
+      "signUp": "Sign Up"
+    },
+    "success": "Your registration was successful. Please check your email to verify your account. If you do not receive the email, please contact us at info@gastrotrader.com.",
+      "validation": "An error occurred during registration. Please check the fields below and try again:",
+      "emailExists": "This email address is already registered. Please try again with a different email address.",
+      "unknown": "An error occurred during registration. Please try again later. If the problem persists, please contact us at info@gastrotrader.com."
+  },
   "services": {
     "automatic-alerts": {
       "content": "With the help of 500+ continuously updating alert 40+ pozíció nyitási stratégia you will not miss the next NVIDIA story even if you don’t go through the market information on a daily basis",
